@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="200" height="100" fill="black" />
+  <text x="30" y="65" font-family="monospace" font-size="60" fill="#FFD700" text-rendering="pixelation" style="font-variant: small-caps;">J</text>
+  <text x="130" y="65" font-family="monospace" font-size="60" fill="#FFD700" text-rendering="pixelation" style="font-variant: small-caps;">S</text>
+</svg>

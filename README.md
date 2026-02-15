@@ -1,43 +1,32 @@
 # Retro Animated Profile
 
-## Animated Typing
-Welcome to my retro animated profile! Type along with me as I share my journey. It's just like the classic old-school terminals!
+Welcome to my retro animated profile! Here, you'll find all the features, animations, and pixel art that represent my journey in the programming world.
 
-```
-    > Hello there! 🤖
-    > Welcome to my profile! 🚀
-    > Here is what I've been up to...
-```
+## Features
+- 🌟 Cool animations that bring this profile to life!
+- 📊 Dynamic stats that showcase my skills and projects.
+- 🎨 A collection of pixel art including badges and more.
+
+## Stats
+- **Languages:** 
+    - JavaScript - 80%
+    - Python - 70%
+    - C++ - 60%
+
+- **Frameworks:** 
+    - React - 75%
+    - Node.js - 65%
 
 ## ASCII Art
-Here is a classic ASCII representation:
 ```
-    .--.
-   |o_o |
-   |:_/ |
-  //   \\ 
- (|     |)
- /'\_   _/`\
- \___)=(___/
+   *     *   
+   *     *   
+    *   *    
+     * *     
+      *      
 ```
-
-## Game Quest Status
-- **Quest Name:** Save the Pixel Kingdom
-- **Current Status:** 🔥 In Progress
-- **Level:** 3
-
-## Power-Ups
-- 💼 Extra Life: Collected 2
-- 🍀 Lucky Charm: 1
-- ⚡ Speed Boost: Available
-
-## Retro Quotes
-> "The more you know, the more you grow!"
 
 ## Pixel Art Badges
-Check out my badges below:
-- ![Expert Coder](./assets/expert-coder.svg)
-- ![Game Master](./assets/game-master.svg)
-- ![Pixel Artist](./assets/pixel-artist.svg)
+![Badge1](https://example.com/badge1.png)  ![Badge2](https://example.com/badge2.png)  
 
-Try to catch the power-ups and level up your skills as we embark on this epic quest together!
+This profile will keep evolving, and your feedback is essential!

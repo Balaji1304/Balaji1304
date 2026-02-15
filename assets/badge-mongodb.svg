@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="50" viewBox="0 0 150 50">
+  <rect width="150" height="50" fill="#000" />
+  <text x="10" y="35" font-family="monospace" font-size="30" fill="#47A248">MongoDB</text>
+  <path d="M 100 10 L 80 25 L 100 40 Q 120 25 100 10 Z" fill="#47A248" />
+</svg>

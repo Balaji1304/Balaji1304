@@ -69,7 +69,6 @@ I actively experiment with ChatGPT, GitHub Copilot, Cursor IDE, and n8n to speed
 - 🔐 [Kali Linux MCP Server for AI-assisted Penetration Testing](https://github.com/Balaji1304/Kali-MCP-Server) - AI agents integrated with security tools to automate vulnerability analysis.
 - 🥗 [Fridge Chef (AI Mobile App)](https://github.com/Balaji1304/Fridge-Chef) - React Native app that analyzes fridge contents and generates AI-powered recipes.
 - 📜 [Ancient Tamil Manuscript Translator](https://github.com/Balaji1304/Ancient-Tamil-Translator) - Multimodal AI web app converting ancient Tamil scripts into readable modern text.
-- 🏭 [CRM System for Manufacturing Company](https://github.com/Balaji1304/CRM-Manufacturing) - Full-stack MERN platform with automation, payments, real-time notifications, and role-based access.
 - 🎨 [No-Code Portfolio Builder](https://github.com/Balaji1304/Portfolio-Builder) - Drag-and-drop website builder focused on creators and responsive design.
 - 🌱 [Green Track](https://github.com/Balaji1304/Green-Track) - Environmental analytics platform with dashboards, Docker setup, and data visualization.
 

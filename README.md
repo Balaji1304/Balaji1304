@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Balaji%20Loganathan&fontSize=50&color=white,100:92FE9D&stroke=0F172A&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=Balaji%20Loganathan&fontSize=50&color=0:00C9FF,100:92FE9D&fontColor=FFFFFF&stroke=FFFFFF&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
